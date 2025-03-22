@@ -15,7 +15,7 @@ export const NotFoundPage = () => {
 
   return (
     <>
-      <title>見つかりません - AremaTV</title>
+      <title>見つかりません - Arema TV</title>
 
       <div className="w-full px-[32px] py-[48px]">
         <section className="mb-[32px] flex w-full flex-col items-center justify-center gap-y-[20px]">
