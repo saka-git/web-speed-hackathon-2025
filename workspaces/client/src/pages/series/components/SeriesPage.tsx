@@ -65,5 +65,3 @@ export const SeriesPage = () => {
     </>
   );
 };
-
-export default SeriesPage;

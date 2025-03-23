@@ -170,5 +170,3 @@ export const ProgramPage = () => {
     </>
   );
 };
-
-export default ProgramPage;
