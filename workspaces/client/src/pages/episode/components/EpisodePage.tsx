@@ -133,3 +133,5 @@ export const EpisodePage = () => {
     </>
   );
 };
+
+export default EpisodePage;
